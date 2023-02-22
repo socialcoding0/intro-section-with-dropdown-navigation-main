@@ -44,7 +44,7 @@ main {
 
 main h1 {
     height: 0;
-    visibility: hidden;
+    opacity: 0;
 }
 
 .menu-container {
