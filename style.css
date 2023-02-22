@@ -49,8 +49,11 @@ main {
     align-items: center;
     padding: 1.2rem 0rem;
     gap: 5rem;
+}
 
 
+.menu-container h1 {
+    display: none;
 }
 
 .logo {
