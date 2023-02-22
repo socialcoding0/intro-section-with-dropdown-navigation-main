@@ -42,6 +42,9 @@ main {
 
 }
 
+main h1 {
+    display: none;
+}
 
 .menu-container {
 
