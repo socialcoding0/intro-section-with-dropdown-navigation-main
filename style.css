@@ -203,7 +203,8 @@ main {
     background-repeat: no-repeat;
 }
 
-.aside-img h2 {
+.aside-img h2,
+.middle-container>h2 {
     display: none;
 }
 
