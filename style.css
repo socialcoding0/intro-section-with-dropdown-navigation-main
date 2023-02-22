@@ -203,6 +203,10 @@ main {
     background-repeat: no-repeat;
 }
 
+.aside-img h2 {
+    display: none;
+}
+
 .aside-img img {
     width: 100%;
     height: 100%;
