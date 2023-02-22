@@ -52,7 +52,7 @@ main {
 }
 
 
-.menu-container h1 {
+main h1 {
     display: none;
 }
 
@@ -203,6 +203,7 @@ main {
     background-repeat: no-repeat;
 }
 
+.menu-container h2,
 .aside-img h2,
 .middle-container>h2 {
     display: none;
